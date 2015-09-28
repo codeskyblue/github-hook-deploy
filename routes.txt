@@ -1,0 +1,3 @@
+# git hook
+
+POST /api/webhook webhook.sh
